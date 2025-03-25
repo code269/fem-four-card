@@ -1,0 +1,5 @@
+1. Fix box shadow
+2. See if can adjust typography
+3. Container / max-width for mobile sizing
+
+4. Desktop sizing media queries
