@@ -111,5 +111,12 @@ main {
   .flex {
     display: flex;
     align-items: center;
+    gap: 2.5em;
+    margin: 0 auto;
+    max-width: 1200px;
+  }
+
+  .flex-container {
+    flex: 1;
   }
 }
