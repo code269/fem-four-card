@@ -21,6 +21,7 @@ Users should be able to:
 ### Screenshot
 
 Mobile:
+
 ![](./images/screenshots/four-card_mobile.png)
 
 Desktop:
