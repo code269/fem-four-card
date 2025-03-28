@@ -51,16 +51,12 @@ header {
   font-size: 1.15rem;
 }
 
-main {
-  margin-top: 2em;
-}
-
 .card {
-  border-radius: 5px;
   padding: 2.5em;
   margin: 0 auto;
   margin-bottom: 2.5em;
   max-width: 600px;
+  border-radius: 5px;
   box-shadow: 0 10px 15px 0 rgba(48, 48, 48, 0.2);
 }
 
@@ -97,7 +93,6 @@ main {
   margin: 1.5em 0;
 }
 
-/* Footer */
 .attribution {
   margin: 2em 0;
   font-size: 11px;
@@ -114,15 +109,11 @@ main {
     align-items: center;
     height: 100vh;
   }
-  /* .flex-desktop-container {
-    height: 100vh;
-  } */
 
   .flex {
     display: flex;
     align-items: center;
     gap: 2.5em;
-    margin: 0 auto;
     max-width: 1200px;
   }
 
