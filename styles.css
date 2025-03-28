@@ -82,6 +82,7 @@ header {
 
 .card__description {
   margin-top: 0.5em;
+  color: var(--grey-400);
 }
 
 .img-container {
