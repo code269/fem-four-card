@@ -30,7 +30,7 @@ Desktop:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/code269/fem-four-card)
-- Live Site URL: [Deployment](https://your-live-site-url.com)
+- Live Site URL: [Deployment](https://code269.github.io/fem-four-card/)
 
 ## Author
 
