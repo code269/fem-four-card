@@ -108,6 +108,16 @@ main {
 }
 
 @media (min-width: 1024px) {
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  /* .flex-desktop-container {
+    height: 100vh;
+  } */
+
   .flex {
     display: flex;
     align-items: center;
